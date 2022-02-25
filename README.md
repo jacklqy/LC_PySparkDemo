@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/26539681/155634334-60d09377-5d97-464c-990f-6b5bd18f0508.png)
 ![image](https://user-images.githubusercontent.com/26539681/155634415-0d224b7f-c638-488d-9c90-92ca134c40c3.png)
 
-三、Spark StandAlone HA
+三、Spark StandAlone HA (企业级)
 
 确保Zookeeper 和 HDFS 均已经启动
 ![image](https://user-images.githubusercontent.com/26539681/155637056-a9a0122b-198a-4794-a51e-06159801d806.png)
