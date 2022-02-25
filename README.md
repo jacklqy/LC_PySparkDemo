@@ -21,6 +21,7 @@
 
 五、Python语言开发Spark程序步骤
 ![1645781333(1)](https://user-images.githubusercontent.com/26539681/155690637-466745bf-4d33-46eb-9b15-bc8897924ebe.jpg)
+![1645782886](https://user-images.githubusercontent.com/26539681/155695211-e573192c-c895-4b81-8869-991348c15eac.jpg)
 application-》job->stage(阶段)->task
 ![1645781333](https://user-images.githubusercontent.com/26539681/155690659-203a4a42-d751-4cc4-bd9f-7e64f38bcdf5.jpg)
 
