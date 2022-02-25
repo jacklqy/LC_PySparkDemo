@@ -13,5 +13,6 @@
 ![image](https://user-images.githubusercontent.com/26539681/155637056-a9a0122b-198a-4794-a51e-06159801d806.png)
 
 四、Spark On YARN 环境搭建(企业重点)
-![image](https://user-images.githubusercontent.com/26539681/155638746-7d1e0f7c-63e6-42e1-bd27-30340296c2a0.png)
+![image](https://user-images.githubusercontent.com/26539681/155640712-73f61446-ea83-438b-8e46-f0a2d4c7da5b.png)
+
 
