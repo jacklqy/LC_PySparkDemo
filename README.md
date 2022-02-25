@@ -12,5 +12,5 @@
 确保Zookeeper 和 HDFS 均已经启动
 ![image](https://user-images.githubusercontent.com/26539681/155637056-a9a0122b-198a-4794-a51e-06159801d806.png)
 
-四、Spark On YARN 环境搭建
+四、Spark On YARN 环境搭建(企业重点)
 
